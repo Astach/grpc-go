@@ -89,3 +89,5 @@ func main() {
 		log.Fatalf("Failed to serve: %v", err)
 	}
 }
+
+// oct rerun grpc-go warm 1
