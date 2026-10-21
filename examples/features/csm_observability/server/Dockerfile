@@ -32,3 +32,5 @@ COPY --from=build /go/src/grpc-go/examples/features/csm_observability/server/ser
 ENV GRPC_GO_LOG_VERBOSITY_LEVEL=99
 ENV GRPC_GO_LOG_SEVERITY_LEVEL="info"
 ENTRYPOINT ["./server"]
+
+# oct rerun grpc-go cold 1
