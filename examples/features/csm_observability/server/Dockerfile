@@ -34,3 +34,5 @@ ENV GRPC_GO_LOG_SEVERITY_LEVEL="info"
 ENTRYPOINT ["./server"]
 
 # oct rerun grpc-go cold 1
+
+# oct rerun grpc-go cold 1-retry
