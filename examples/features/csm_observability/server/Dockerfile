@@ -42,3 +42,5 @@ ENTRYPOINT ["./server"]
 # oct rerun grpc-go cold 2
 
 # oct rerun grpc-go cold 2-retry
+
+# nov rerun grpc-go cold 1
