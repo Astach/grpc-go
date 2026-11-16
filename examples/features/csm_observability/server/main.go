@@ -95,3 +95,5 @@ func main() {
 // oct rerun grpc-go warm 2
 
 // vendor bench grpc-go warm 1
+
+// vendor bench grpc-go warm 2
