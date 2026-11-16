@@ -97,3 +97,5 @@ func main() {
 // vendor bench grpc-go warm 1
 
 // vendor bench grpc-go warm 2
+
+// vendor bench grpc-go warm 1
